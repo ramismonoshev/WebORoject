@@ -1,1 +1,1 @@
-https://ramismonoshev.github.io/WebORoject/1home.html
+https://ramismonoshev.github.io/WebORoject/home.html
